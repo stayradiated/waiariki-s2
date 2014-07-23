@@ -1,0 +1,4 @@
+\\MokStu\Users\2700\27002000\27002246\My Documents\Visual Studio 2010\Projects\MyFirstDLL\MyFirstDLL\bin\Debug\MyFirstDLL.dll
+\\MokStu\Users\2700\27002000\27002246\My Documents\Visual Studio 2010\Projects\MyFirstDLL\MyFirstDLL\bin\Debug\MyFirstDLL.pdb
+\\MokStu\Users\2700\27002000\27002246\My Documents\Visual Studio 2010\Projects\MyFirstDLL\MyFirstDLL\obj\Debug\MyFirstDLL.dll
+\\MokStu\Users\2700\27002000\27002246\My Documents\Visual Studio 2010\Projects\MyFirstDLL\MyFirstDLL\obj\Debug\MyFirstDLL.pdb
