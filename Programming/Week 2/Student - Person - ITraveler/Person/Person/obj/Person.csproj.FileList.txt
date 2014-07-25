@@ -1,0 +1,5 @@
+bin\Debug\Person.dll
+bin\Debug\Person.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Person.dll
+obj\Debug\Person.pdb

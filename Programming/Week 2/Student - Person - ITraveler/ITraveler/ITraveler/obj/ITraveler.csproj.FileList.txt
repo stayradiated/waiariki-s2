@@ -1,0 +1,5 @@
+bin\Debug\ITraveler.dll
+bin\Debug\ITraveler.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ITraveler.dll
+obj\Debug\ITraveler.pdb

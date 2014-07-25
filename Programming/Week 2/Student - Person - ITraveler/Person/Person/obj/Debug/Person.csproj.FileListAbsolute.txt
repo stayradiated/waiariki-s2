@@ -1,0 +1,4 @@
+C:\Users\27002246\Downloads\Exercise 1\Person\Person\bin\Debug\Person.dll
+C:\Users\27002246\Downloads\Exercise 1\Person\Person\bin\Debug\Person.pdb
+C:\Users\27002246\Downloads\Exercise 1\Person\Person\obj\Debug\Person.dll
+C:\Users\27002246\Downloads\Exercise 1\Person\Person\obj\Debug\Person.pdb

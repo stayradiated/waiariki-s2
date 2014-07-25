@@ -1,0 +1,10 @@
+H:\06.7226 GUI Development\S2\CS Projects\ITraveler\ITraveler\bin\Debug\ITraveler.dll
+H:\06.7226 GUI Development\S2\CS Projects\ITraveler\ITraveler\bin\Debug\ITraveler.pdb
+H:\06.7226 GUI Development\S2\CS Projects\ITraveler\ITraveler\obj\Debug\ResolveAssemblyReference.cache
+H:\06.7226 GUI Development\S2\CS Projects\ITraveler\ITraveler\obj\Debug\ITraveler.dll
+H:\06.7226 GUI Development\S2\CS Projects\ITraveler\ITraveler\obj\Debug\ITraveler.pdb
+H:\COMP.7421 Advanced Program Development\CS Projects\ITraveler\ITraveler\bin\Debug\ITraveler.dll
+H:\COMP.7421 Advanced Program Development\CS Projects\ITraveler\ITraveler\bin\Debug\ITraveler.pdb
+H:\COMP.7421 Advanced Program Development\CS Projects\ITraveler\ITraveler\obj\Debug\ResolveAssemblyReference.cache
+H:\COMP.7421 Advanced Program Development\CS Projects\ITraveler\ITraveler\obj\Debug\ITraveler.dll
+H:\COMP.7421 Advanced Program Development\CS Projects\ITraveler\ITraveler\obj\Debug\ITraveler.pdb

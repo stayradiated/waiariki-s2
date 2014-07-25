@@ -1,0 +1,9 @@
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\bin\Debug\Student.dll
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\bin\Debug\Student.pdb
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\bin\Debug\Person.dll
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\bin\Debug\Person.pdb
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\obj\Debug\Student.dll
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\obj\Debug\Student.pdb
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\bin\Debug\ITraveler.dll
+C:\Users\27002246\Downloads\Exercise 1\Student\Student\bin\Debug\ITraveler.pdb
