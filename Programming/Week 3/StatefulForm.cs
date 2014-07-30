@@ -42,8 +42,8 @@ namespace StatefulForm {
 
     private void Form1_FormClosing(object sender, FormClosingEventArgs e) {
       StreamWriter sw = new StreamWriter(this.PATH);
-      sw.WriteLine(this.Left.ToString());
-      sw.WriteLine(this.Top.ToString());
+      sw.WriteLine(this.Location.X.ToString());
+      sw.WriteLine(this.Location.Y.ToString());
       sw.WriteLine(this.Width.ToString());
       sw.WriteLine(this.Height.ToString());
       sw.Close();
