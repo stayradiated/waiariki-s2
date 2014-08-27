@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<company>
+  <employees>
+    <employee>
+      <name>Veronica King</name>
+      <phone>334 426 6437</phone>
+      <department>1</department>
+    </employee>
+    <employee>
+      <name>Shawn Ramsey</name>
+      <phone>267 937 9964</phone>
+      <department>2</department>
+    </employee>
+    <employee>
+      <name>Antonio Jacob</name>
+      <phone>212 383 9955</phone>
+      <department>3</department>
+    </employee>
+  </employees>
+  <departments>
+    <department>
+      <id>1</id>
+      <name>Sales</name>
+    </department>
+    <department>
+      <id>2</id>
+      <name>Marketing</name>
+    </department>
+    <department>
+      <id>3</id>
+      <name>Research</name>
+    </department>
+  </departments>
+</company>
