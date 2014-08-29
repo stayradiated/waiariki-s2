@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<greeting>
+  <to>Class</to>
+  <from>Doug</from>
+  <heading>Friendly Reminder!</heading>
+  <body>Do not forget to open this file using a browser</body>
+</greeting>
