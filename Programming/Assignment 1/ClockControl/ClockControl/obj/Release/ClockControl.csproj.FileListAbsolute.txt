@@ -1,0 +1,15 @@
+E:\ClockControl\ClockControl\bin\Release\ClockControl.dll
+E:\ClockControl\ClockControl\bin\Release\ClockControl.pdb
+E:\ClockControl\ClockControl\obj\Release\ClockControl.ClockControl.resources
+E:\ClockControl\ClockControl\obj\Release\ClockControl.csproj.GenerateResource.Cache
+E:\ClockControl\ClockControl\obj\Release\ClockControl.dll
+E:\ClockControl\ClockControl\obj\Release\ClockControl.pdb
+E:\ClockControl\ClockControl\obj\Release\ClockControl.csprojResolveAssemblyReference.cache
+D:\ClockControl\ClockControl\bin\Release\ClockControl.dll
+D:\ClockControl\ClockControl\bin\Release\ClockControl.pdb
+D:\ClockControl\ClockControl\obj\Release\ResolveAssemblyReference.cache
+D:\ClockControl\ClockControl\obj\Release\ClockControl.ClockControl.resources
+D:\ClockControl\ClockControl\obj\Release\GenerateResource.read.1.tlog
+D:\ClockControl\ClockControl\obj\Release\GenerateResource.write.1.tlog
+D:\ClockControl\ClockControl\obj\Release\ClockControl.dll
+D:\ClockControl\ClockControl\obj\Release\ClockControl.pdb
